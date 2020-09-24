@@ -1,0 +1,42 @@
+
+body{
+	background-color: #a9d7e9;
+}
+h1{
+	text-align: center;
+}
+
+form{
+	width: 1200px;
+	border-radius: 8px;
+	background-color: #f3f3f3;
+	font-size: 16px;
+}
+
+.hello{
+	padding: 12px;
+	display: block;
+	text-align: center;
+}
+input[type=text], input[type=email], input[type=number], textarea, select{
+
+  margin left: 35px;
+  padding: 12px;
+  width: 250px;
+  border-radius: 6px;
+
+}
+input[type=radio], input[type=checkbox]{
+	padding-left: 35px;
+	margin-left: 40px;
+}
+
+input[type=submit]{
+
+  margin: 6px 0;
+  padding: 8px 12px;
+  width: 80px;
+  background-color: #a9d7e9;
+  border-radius: 4px;
+
+}
